@@ -1,0 +1,14 @@
+
+th  {
+    border: 2px solid #da9fda;
+}
+  
+table{
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+td {
+    border: 2px solid #da9fda;
+    width: 300px;
+  }
